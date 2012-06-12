@@ -1,0 +1,10 @@
+{
+
+	"name": "kml-repository",
+
+	"require": {
+		"symfony/http-foundation": "dev-master",
+		"symfony/finder": "dev-master"
+	}
+
+}
